@@ -2,3 +2,6 @@ baseURL = 'https://observmap.com.br/'
 languageCode = 'en-us'
 title = 'ObservMap'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
